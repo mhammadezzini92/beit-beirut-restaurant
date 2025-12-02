@@ -1,0 +1,5 @@
+Version 18.0.0.1 (25/04/2025) 
+=> :- if we not select "Allow Discount" then along with normal discount a Global Discounts is also disabled.
+
+Version 18.0.0.2 (01/05/2025) 
+=> :- Solved issue realted remove orderline functionality
